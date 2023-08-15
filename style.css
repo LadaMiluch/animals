@@ -1,0 +1,55 @@
+body{
+    background-color: #FCDBA8;
+}
+.care{
+    background-color: #F5E985;
+}
+header{
+    background-color: #F78F54;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size:24px;
+    color:black;
+}
+a{
+    text-decoration: none;
+    margin-right: 20px ;
+    color:black;
+    background-color:#f3b592;
+    border-radius: 12px;
+    padding: 0px 10px;
+}
+article{
+    display: flex;
+}
+.text{
+    text-align: justify;
+    margin: 50px 30px;
+    display: flex;
+    justify-content:space-around;
+    align-items:end;
+}
+.zagolovok{
+    margin: 80px 30px 30px 30px;
+    display: flex;
+    justify-content:space-around;
+}
+.textphoto{
+    flex-direction:column;
+    display: center;
+    align-items: center;
+}  
+.photo{
+    display: flex;
+
+}
+footer{
+    background-color: #F78F54; 
+}
+.kartinka{
+    width: 600px;
+}
+#glavnaay{
+    width: 1255px;
+}
